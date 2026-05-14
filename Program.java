@@ -30,6 +30,6 @@ public class Program {
         Program p = new Program();
 
         System.out.println("El producte dels nombres de l'1 al 5 és: " + p.producte());
-        System.out.println("La suma dels nombres primers de l'1 al 100 és: " + p.sumaPrimers());
+
     }
 }
